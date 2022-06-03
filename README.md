@@ -16,6 +16,19 @@ Pytorch implementation of FC-DenseNet([paper](https://arxiv.org/pdf/1611.09326.p
 
 ![](https://i.imgur.com/jQDOU6D.png)
 
+## Experiment Result 
+
+### Testing Loss
+* DC: dice loss 
+* CE: Cross Entropy Loss
+* FL: Focal Loss
+![testing loss](https://github.com/hsingyingli/FC-DenseNet/blob/master/src/testing_loss.png)
+
+### Performance
+![performance](https://github.com/hsingyingli/FC-DenseNet/blob/master/src/performance.png)
+![Result](https://github.com/hsingyingli/FC-DenseNet/blob/master/src/result.png)
+
+
 
 
 ## How to use
